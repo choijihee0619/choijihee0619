@@ -1,7 +1,7 @@
-# 👋안녕하세요! Jihee입니다
+# 👋안녕하세요! 최지희입니다
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choijihee0619&show_icons=true&theme=radical)](https://github.com/choijihee0619)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choijihee0619&layout=compact&theme=radical)](https://github.com/choijihee0619)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choijihee0619&show_icons=true&theme=default)](https://github.com/choijihee0619)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choijihee0619&layout=compact&theme=default)](https://github.com/choijihee0619)
 
 ## 🚀 About Me
 **AI/ML 엔지니어이자 풀스택 개발자**로서, 데이터 사이언스와 웹 개발을 아우르는 다양한 프로젝트를 진행하고 있습니다. 특히 **LangChain을 활용한 AI 시스템 구축**과 **FastAPI 기반 백엔드 개발**에 전문성을 갖고 있습니다.
@@ -116,7 +116,7 @@
 
 ## 📫 Contact & Links
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihee980619@naver.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choijihee0619@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choijihee0619)
 
 > 💡 **"AI와 데이터로 더 나은 세상을 만들어가는 개발자"**
@@ -132,3 +132,19 @@
 
 ---
 *"끊임없는 학습과 혁신을 통해 기술로 가치를 창출합니다."*
+
+---
+
+## 🌍 English Summary
+
+**Hello! I'm Jihee Choi** - AI/ML Engineer & Full-Stack Developer
+
+🚀 **Specialization**: LangChain-based AI systems, FastAPI backend development, Data Science  
+🛠️ **Tech Stack**: Python, LangChain, OpenAI, FastAPI, scikit-learn, MySQL, MongoDB  
+🏆 **Projects**: 23+ repositories including RAG chatbots, ML analysis, web platforms  
+📊 **Focus**: Building AI-powered applications and data-driven solutions  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choijihee0619@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choijihee0619)
+
+> 💡 *"Creating value through technology with AI and data for a better world"*
